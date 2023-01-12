@@ -1,1 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=tokyonight)
+![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
