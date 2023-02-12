@@ -1,8 +1,8 @@
 
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=header&fontSize=10"/>
- <h1> Hi, :exclamation: I’m Moonyoung.  👋</h1></div><br>
-<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansdud8239&count_bg=%23FFA7CE&title_bg=%23F17CB2&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></div><br>
+ <h1> Hi, :exclamation: I’m JinSan-Kim.  👋</h1></div><br>
+<div align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinSan-RM&count_bg=%2397C4FB&title_bg=%231637E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></div><br>
 <div align=center><img src="https://user-images.githubusercontent.com/60773767/218306580-cadd9caa-d9bd-4c92-9f5b-0cfb871e18c3.gif"/></div>
 <br>
 <div align=center>
@@ -15,7 +15,6 @@
  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=dracula" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact" width="350" height="200"><br><br>
 <img src="https://ghchart.rshah.org/238223/JinSan-RM" width="100%"/>
-![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 </div>
 
 
