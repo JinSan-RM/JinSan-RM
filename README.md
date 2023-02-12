@@ -12,7 +12,7 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/>
  <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=dracula" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact" width="350" height="200"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=radical" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact" width="350" height="200"><br><br>
 <img src="https://ghchart.rshah.org/238223/JinSan-RM" width="100%"/>
 </div>
 
