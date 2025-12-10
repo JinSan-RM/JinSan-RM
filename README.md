@@ -1,3 +1,9 @@
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=250&section=header&text=JinSan%20Kim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Industrial%20Automation%20Specialist&descAlignY=51&descAlign=50)
+</div>
+
+---
+
 ## 안녕하세요, 김진산입니다
 
 현
@@ -9,7 +15,7 @@
 주식회사 위븐 선임연구원 (컴퓨터 비전 기반 & 자연어 기반 웹 생성 AI 개발) <br/>
 에스티원 주임연구원 (LPR 자동차 번호판 인식 Deeplearning 알고리즘 고도화)
 
-<br/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinSan-RM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JinSan-RM)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinSan-RM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JinSan-RM)
 
 ---
 
@@ -57,6 +63,21 @@
 
 ### GitHub 통계
 
-![JinSan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=react&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact&theme=react&hide_border=true)
+![JinSan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JinSan-RM&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=150&section=footer)
+
+</div>
+
