@@ -65,12 +65,6 @@
 
 <div align="center">
 
-![JinSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JinSan-RM&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
