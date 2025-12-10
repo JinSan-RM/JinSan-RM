@@ -1,8 +1,7 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=250&section=header&text=JinSan%20Kim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Industrial%20Automation%20Specialist&descAlignY=51&descAlign=50)
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=JinSan%20Kim&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20Industrial%20Automation&descAlignY=51&descAlign=62)
 
 ---
+
 
 ## 안녕하세요, 김진산입니다
 
@@ -63,21 +62,19 @@
 
 ### GitHub 통계
 
+
 <div align="center">
 
-![JinSan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![JinSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinSan-RM&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSan-RM&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JinSan-RM&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JinSan-RM&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=150&section=footer)
-
-</div>
 
