@@ -7,7 +7,8 @@
 전
 주식회사 위븐 선임연구원 (컴퓨터 비전 기반 & 자연어 기반 웹 생성 AI 개발)
 에스티원 주임연구원 (LPR 자동차 번호판 인식 Deeplearning 알고리즘 고도화)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinSan-RM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JinSan-RM)
+
+<br/>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinSan-RM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JinSan-RM)
 
 ---
 
