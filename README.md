@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=JinSan%20Kim&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20Industrial%20Automation&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=JinSan%20Kim&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/DL/ML%20Developer%20|%20Industrial%20Automation&descAlignY=51&descAlign=62)
 
 ---
 
@@ -8,6 +8,7 @@
 현
 **WithWe Inc. 개발팀장**  <br/>
 **서강대학교 AI·SW대학원 석사과정**<br/>
+**서강대학교 AI·SW대학원 30기 원우회장**<br/>
 
 <br/>
 전<br/>
@@ -41,7 +42,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI/ML 및 컴퓨터 비전**  
+**AI/DL/ML 및 컴퓨터 비전**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
