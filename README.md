@@ -9,6 +9,7 @@
 **WithWe Inc. 개발팀장**  <br/>
 **서강대학교 AI·SW대학원 석사과정**<br/>
 **서강대학교 AI·SW대학원 30기 원우회장**<br/>
+**팀스파르타 AI 엔지니어 주강사**<br/>
 
 <br/>
 전<br/>
@@ -28,8 +29,12 @@
 **경력**
 - AI/ML 및 산업 자동화 분야 5년+ 경력
 - 컴퓨터 비전, 객체 검출 및 추적
-- 강화학습 및 3D 비전 알고리즘
+- 해커톤 최우수상(1등) ICT이노베이션
 - 웹 생성 AI 개발
+- 논문 (Research on Improving the Performance of Image based Web Structure Similarity: Combining SSIM and ORB algorithms)
+- 논문 (Research on Training and Implementation of Deep Learning Models for Web Page Analysis)
+- 특허 (인공지능 학습을 위한 이미지 데이터셋 자동 생성장치)
+- 강화학습 및 3D 비전 알고리즘
 - 풀스택 개발 및 시스템 통합
 - 클라우드 인프라 (AWS, KT, NCP, NHN) & Linux
 
